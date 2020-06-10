@@ -240,18 +240,18 @@ def train_model(learning_rate, steps, batch_size, input_feature="total_rooms"):
 
     print ("Final RMSE (on training data): %0.2f" % root_mean_squared_error)
 
-train_model(
-    learning_rate=0.00001,
-    steps=100,
-    batch_size=1
-)
+# train_model(
+#     learning_rate=0.00001,
+#     steps=100,
+#     batch_size=1
+# )
 
-train_model(
-    learning_rate=0.00002,
-    steps=500,
-    batch_size=5
-)
-
+# train_model(
+#     learning_rate=0.00002,
+#     steps=500,
+#     batch_size=5
+# )
+#
 train_model(
     learning_rate=0.00002,
     steps=1000,
