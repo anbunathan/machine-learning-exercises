@@ -1,0 +1,2 @@
+Copy the folders 'data' & 'knn' from:
+https://drive.google.com/drive/folders/1i9Lvb7Y2Az52vXFNhAkhQm5GoG27XkRQ?usp=sharing
